@@ -23,3 +23,6 @@ Module Module1
     End Sub
 End Module
 ```
+\[
+R = \frac{1}{{2\pi f_c C}}
+\]
