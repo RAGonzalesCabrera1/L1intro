@@ -35,3 +35,9 @@ La fórmula para calcular la resistencia es:
 <div align="center">
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;R=\frac{1}{{2\pi&space;f_c&space;C}}" title="\Large R=\frac{1}{{2\pi f_c C}}" />
 </div>
+
+La fórmula para calcular la resistencia es:
+
+<div align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;R=\frac{1}{{2\pi&space;f_c&space;C}}" title="\Large R=\frac{1}{{2\pi f_c C}}" style="color:white;" />
+</div>
