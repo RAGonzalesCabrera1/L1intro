@@ -8,6 +8,7 @@ Aquí puedes listar los colaboradores de tu proyecto.
 
 - Python
 
+
 Module Module1
     Sub Main()
         ' Definir valor de fc y C
@@ -21,3 +22,4 @@ Module Module1
         Console.WriteLine("El valor de R es: " & R)
     End Sub
 End Module
+
