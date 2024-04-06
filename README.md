@@ -32,12 +32,12 @@ R = \frac{1}{{2\pi f_c C}}
 
 La fórmula para calcular la resistencia es:
 
-<div align="center">
+<div align="center" style="border: 1px solid white; padding: 10px;" >
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;R=\frac{1}{{2\pi&space;f_c&space;C}}" title="\Large R=\frac{1}{{2\pi f_c C}}" />
 </div>
 
 La fórmula para calcular la resistencia es:
 
-<div align="center" style="border: 1px solid white; padding: 10px;">
+<div align="center" style="border: 1px solid white; padding: 10px;" >
     <img src="[URL_de_la_imagen](https://camo.githubusercontent.com/57f53b9884b1da74088541f764ad6abcd56864eaa291f7e343f89a76d87d48d6/68747470733a2f2f6c617465782e636f6465636f67732e636f6d2f7376672e6c617465783f5c4c617267652673706163653b523d5c667261637b317d7b7b325c70692673706163653b665f632673706163653b437d7d)" style="color:white;" />
 </div>
