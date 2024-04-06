@@ -38,3 +38,4 @@ R = \frac{1}{{2\pi f_c C}}
 \]
 
 \end{document}
+\includegraphics[width=0.5\textwidth]{[URL_de_la_imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiptwpx7_5woUnxivArKeDcXqzP2LJPUFsv3gFLi9uJ2zfYtwfOOCLLA4l8tbcZzKX9dg2tI1yvHYQQhmJVCpyKOpV33l41s9L7CzN0vVYzhda9O8BtmFBRTxzqFIEHww6v1CZ0xruk0Kyv/s1600/descarga.png)}
