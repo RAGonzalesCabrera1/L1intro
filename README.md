@@ -23,6 +23,9 @@ Module Module1
     End Sub
 End Module
 ```
+
+La fórmula para calcular la resistencia (\( R \)) en función de la frecuencia de corte (\( f_c \)) y la capacitancia (\( C \)) es:
+
 \[
 R = \frac{1}{{2\pi f_c C}}
 \]
