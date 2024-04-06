@@ -39,3 +39,5 @@ R = \frac{1}{{2\pi f_c C}}
 
 \end{document}
 \includegraphics[width=0.5\textwidth]{[URL_de_la_imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiptwpx7_5woUnxivArKeDcXqzP2LJPUFsv3gFLi9uJ2zfYtwfOOCLLA4l8tbcZzKX9dg2tI1yvHYQQhmJVCpyKOpV33l41s9L7CzN0vVYzhda9O8BtmFBRTxzqFIEHww6v1CZ0xruk0Kyv/s1600/descarga.png)}
+
+![Imagen de un gato]([https://www.example.com/cat.jpg](https://www.google.com/url?sa=i&url=http%3A%2F%2Felectgpl.blogspot.com%2F2018%2F11%2Ffiltro-pasa-bajos-y-respuesta-en.html&psig=AOvVaw1kAZp7VCD8B2tmYORSA8IN&ust=1712460364384000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDa8pHSrIUDFQAAAAAdAAAAABAE))
